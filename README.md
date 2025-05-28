@@ -3,7 +3,7 @@ VirtualBox VMs including servers, clients, attacker, and domain controller simul
 
 ## Objective
 
-I made this homelab with the help of the Projectsecurity.io guide. It is a simulated corporate environment which includes all the components that make up an enterpise network including a Windows 11 Enterprise Workstation, Ubuntu Desktop, Security Workstsation running Security Onion, Security Email Server, Ubuntu Security Server running Wazuh SIEM+XDR, and an Active Directory Services Server.  
+This home lab conists of an end-to-end attack on a simulated corporate environment which includes all the components that make up an enterpise network including a Windows 11 Enterprise Workstation, Ubuntu Desktop, Security Workstsation running Security Onion, Security Email Server, Ubuntu Security Server running Wazuh SIEM+XDR, and an Active Directory Services Server.  
 
 ### Skills Learned
 - Provsioning Permissions

@@ -6,7 +6,7 @@ VirtualBox VMs including servers, clients, attacker, and domain controller simul
 This home lab conists of an end-to-end attack on a simulated corporate environment which includes all the components that make up an enterpise network including a Windows 11 Enterprise Workstation, Ubuntu Desktop, Security Workstation running Security Onion, Security Email Server, Ubuntu Security Server running Wazuh SIEM+XDR, and an Active Directory Services Server.  
 
 ### Skills Learned
-- Provsioning Permissions
+- Provisioning Permissions
 - Intrusion Detection
 - Log Analysis
 - Vulnerability Detection
@@ -14,7 +14,7 @@ This home lab conists of an end-to-end attack on a simulated corporate environme
 - Reconnaisance
 - Initial Access
 - Lateral Movement
-- Privelege Escalation
+- Privilege Escalation
 - Data Exfiltration
 - Persistence
 

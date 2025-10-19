@@ -35,45 +35,6 @@ This home lab consists of an end-to-end attack on a simulated corporate environm
 
 ![image](https://github.com/user-attachments/assets/05ec0635-da2b-4778-9d41-5effc1495c0d)
 
-*Users joined to the domain highlighted.*
-
-![image](https://github.com/user-attachments/assets/ad4377f8-ab93-4dad-b3cf-661bdf179eb8)
-
-*John Doe Account Properties*
-
-![image](https://github.com/user-attachments/assets/bace7efd-6cc4-4ad3-b41b-84c11cf365d1)
-
-*Jane Doe Account Properties*
-
-![image](https://github.com/user-attachments/assets/2ea762ae-7401-4b54-8ef3-8c515887736c)
-
-*Administrator Account Properties*
-
-![image](https://github.com/user-attachments/assets/5afaef7a-f519-482f-864f-fecb1e697f96)
-
-*Email Server Account Properties (showing joined to domain)*
-
-![image](https://github.com/user-attachments/assets/162aae2f-5f10-4f65-9efc-6ac48b29e558)
-
-*Computers joined to domain highlighted*
-
-![image](https://github.com/user-attachments/assets/4cf4a9a1-5214-4b4d-b95b-b9cf62b814c1)
-
-*Corporate Server joined to domain*
-
-![image](https://github.com/user-attachments/assets/6c42ec31-8800-48cf-88f3-3af4647c4e59)
-
-*Email Server joined to domain*
-
-![image](https://github.com/user-attachments/assets/226b842d-59c6-49e5-a1ba-2063aa4faee0)
-
-*Linux Client Workstation joined to domain*
-
-![image](https://github.com/user-attachments/assets/4ca416d8-a641-47a1-a69e-45fa3d0b9cd7)
-
-*Ubuntu Security Workstation joined to domain*
-
-![image](https://github.com/user-attachments/assets/ec47ad3f-3686-463b-90c4-f7f28aca8555)
 
 *Windows Client Workstation joined to domain*
 

@@ -31,6 +31,8 @@ This home lab consists of an end-to-end attack on a simulated corporate environm
 ## Network Topology Diagram
 <img width="1366" height="903" alt="image" src="https://github.com/user-attachments/assets/599aa702-3321-4517-8862-370d7be68e96" />
 
+## Attack Simulation
+<img width="1263" height="880" alt="image" src="https://github.com/user-attachments/assets/8fa06556-42f1-4c20-91aa-ae7dc16b212d" />
 
 ## Steps
 ![image](https://github.com/user-attachments/assets/6a769eab-393b-40bf-ae63-cf11ed459b8a)

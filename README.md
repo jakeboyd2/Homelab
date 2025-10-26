@@ -28,6 +28,10 @@ This home lab consists of an end-to-end attack on a simulated corporate environm
 - NetExec (Remote C2)
 - XFreeRDP (RDP Exploit)
 
+## Network Topology Diagram
+<img width="1366" height="903" alt="image" src="https://github.com/user-attachments/assets/599aa702-3321-4517-8862-370d7be68e96" />
+
+
 ## Steps
 ![image](https://github.com/user-attachments/assets/6a769eab-393b-40bf-ae63-cf11ed459b8a)
 
